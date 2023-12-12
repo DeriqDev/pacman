@@ -1,0 +1,22 @@
+@font-face {
+    font-family: pacman;
+    src: url(./fonts/pacfont-good-font/PacfontGood-yYye.ttf);
+}
+
+body{
+    margin: 0;
+        background-color: black;
+        padding: 10px 20px;
+}
+
+h1{
+ color: yellowgreen;
+ font-family: pacman;
+}
+
+p{
+    color: white; 
+    font-family: sans-serif; 
+    font-size: 14px; 
+    margin-bottom: 6px;
+}
